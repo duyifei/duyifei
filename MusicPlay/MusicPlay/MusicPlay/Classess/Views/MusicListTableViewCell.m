@@ -22,6 +22,8 @@
         self.singerNameLable.text = musicModel.singer;
     self.musicNameLable.text = musicModel.name;
     
+    /*git test*/
+    
 }
 - (void)setSelected:(BOOL)selected animated:(BOOL)animated {
     [super setSelected:selected animated:animated];
